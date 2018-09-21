@@ -4,5 +4,6 @@
 
  конфигурация: https://kodaktor.ru/min_react_webpack4new
  
- код в src: https://kodaktor.ru/react_state_bind
+ код в src: https://kodaktor.ru/react_f5a20
+
 
